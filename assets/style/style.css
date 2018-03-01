@@ -1,0 +1,49 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9d3be;
+    font-family: 'Proxima Nova', sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.header {
+    /*width: 70%;*/
+}
+
+.header img {
+    width: 100%;
+    height: auto;
+}
+
+.info {
+    font-size: 2em;
+    text-align: center;
+}
+
+.info p {
+    line-height: 1.4em;
+    margin-bottom: 1.3em;
+}
+
+
+/* footer */
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+.social-link img {
+    width: 60px;
+    height: auto;
+    padding: 30px;
+}
+.social-link a {
+    text-decoration: none;
+}
+/* responsive */
