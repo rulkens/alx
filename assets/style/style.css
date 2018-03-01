@@ -31,6 +31,14 @@ body {
     margin-bottom: 1.3em;
 }
 
+.info.about {
+    font-size: 1.1em;
+}
+.info.about p {
+    font-style: italic;
+    color: #444;
+}
+
 
 /* footer */
 
