@@ -1,0 +1,17 @@
+# wordpress stuff
+wp/*.php
+wp/license.txt
+wp/readme.html
+wp/wp-admin/
+wp/wp-includes/
+
+wp/wp-content/index.php
+wp/wp-content/plugins/index.php
+wp/wp-content/plugins/hello.php
+wp/wp-content/plugins/akismet/
+
+wp/wp-content/themes/index.php
+wp/wp-content/themes/twentyten/
+wp/wp-content/themes/twentyfifteen/
+wp/wp-content/themes/twentysixteen/
+wp/wp-content/themes/twentyseventeen/
